@@ -2,11 +2,12 @@
 
 # HOWTO: set up custom fortune cookies files
 1. git clone git@github.com:ybudimirov/fortune-bg.git
-2. chmod 644 bg*
-3. chown root.root bg*
-4. cp -rp bg* /usr/share/games/fortunes/
-5. /usr/games/fortune bg
-6. OPTIONAL if there is issue with fonts, install ttf-indic-fonts
+2. cd fortune-bg
+3. chmod 644 bg*
+4. chown root.root bg*
+5. cp -rp bg* /usr/share/games/fortunes/
+6. /usr/games/fortune bg
+7. OPTIONAL if there is issue with fonts, install ttf-indic-fonts
 
 # HOWTO: create custom fortune cookies files
 1. Open editor and add the strings that you want to be shown when running "fortune" in terminal. 
