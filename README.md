@@ -1,5 +1,4 @@
-# fortune-bg
-BhagavatGita verses for fortune
+# Bhagavat Gita verses for fortune
 
 # HOWTO: set up custom fortune cookies files
 1. git clone git@github.com:ybudimirov/fortune-bg.git
